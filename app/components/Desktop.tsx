@@ -178,7 +178,7 @@ export const Desktop = () => {
                 </div>
 
                 <div className="overlap">
-                    <MediumSecurity className="medium-security-instance" />
+                    <MediumSecurity />
                     <div className="main">
                         <div className="card-one">
                             <div className="frame">
